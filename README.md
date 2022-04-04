@@ -1,4 +1,4 @@
-# ERNIE-2.0-large
+# ERNIE-Gram-zh
 
 ## Introduction
 
