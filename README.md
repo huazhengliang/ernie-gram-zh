@@ -1,3 +1,7 @@
+---
+language: zh
+---
+
 # ERNIE-Gram-zh
 
 ## Introduction
