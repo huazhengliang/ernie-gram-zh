@@ -19,7 +19,7 @@ More detail: https://arxiv.org/abs/2010.12148
 This released Pytorch model is converted from the officially released PaddlePaddle ERNIE model and 
 a series of experiments have been conducted to check the accuracy of the conversion.
 
-- Official PaddlePaddle ERNIE repo: https://github.com/PaddlePaddle/ERNIE
+- Official PaddlePaddle ERNIE repo: https://github.com/PaddlePaddle/PaddleNLP/blob/develop/paddlenlp/transformers/ernie_gram/modeling.py
 - Pytorch Conversion repo:  https://github.com/nghuyong/ERNIE-Pytorch
 
 ## How to use
